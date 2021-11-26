@@ -4,6 +4,6 @@
 <ul>
   <li>My next update will contain trees</li>
   <li>My initial target is to make it one stop source for interview prepration so I'll avoid advanced stuff like segment trees and fenwik tree</li>
-  <li>But I'll definately add them soon ;p</li>
+  <li>But I'll definitely add them soon ;p</li>
 </ul>
 
